@@ -5,6 +5,11 @@
  Solved 1200+ problems across Codeforces, LeetCode, and other judges  
  Always learning & building cool stuff
 
+## 📌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smh20/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibhasancse20@gmail.com)
+
 
 
 
@@ -34,6 +39,4 @@
 
 ---
 
-## 📌 Connect With Me
-- 📧 Email: rakibhasancse20@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/smh20/)
+
