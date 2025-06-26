@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Saiyed Mohammad Hasan
 
- Final year CSE student from University of Chittagong  
- Competitive Programmer | Problem Solver  
- Solved 1200+ problems across Codeforces, LeetCode, and other judges  
+  
+ Competitive Programmer | Problem Solver   
  Always learning & building cool stuff
 
 ## 📌 Connect With Me
