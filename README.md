@@ -15,10 +15,10 @@
 
 ## 📊 My Problem Solving Stats
 
-- 👨‍💻 Codeforces: [Rakib20](https://codeforces.com/profile/Rakib-20)
-- 🧠 LeetCode: [My LeetCode Profile](https://leetcode.com/u/Rakib_20/)
--   Codechef :[My_Codechef_profile](https://www.codechef.com/users/rakib_20)
-- 🔢 Solved: 1200+ problems
+-  Codeforces : [Rakib20](https://codeforces.com/profile/Rakib-20)
+-  LeetCode   : [Rakib_20](https://leetcode.com/u/Rakib_20/)
+-  Codechef   : [rakib_20](https://www.codechef.com/users/rakib_20)
+-  Solved     : 1200+ problems
 
 
 ---
